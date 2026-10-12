@@ -1,0 +1,4 @@
+interface:
+  display_name: "博物馆考古手记"
+  short_description: "忠实保留博物馆文物原始照片，并制作克制精致的复古考古研究手记"
+  default_prompt: "使用 $museum-archaeology-notebook 将我上传的文物照片制作成复古考古研究手记。"
